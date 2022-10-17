@@ -7,7 +7,7 @@ class Player
       
     def lose_life()
       self.lives -= 1
-      puts "#{name} has #{lives}/3 lives left!"
+      puts "#{name}: #{lives}/3"
     end
 end
 

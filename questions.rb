@@ -14,7 +14,7 @@ class Questions
   end
   
   def question()
-    "#{num1} + #{num2}"
+    "What does #{num1} + #{num2} equal?"
   end
 end
 
